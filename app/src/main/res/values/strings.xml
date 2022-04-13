@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SecondAppKotlin</string>
+    <string name="enter_url">Enter URL</string>
+    <string name="submit">submit</string>
+    <string name="set_image_in_imageview">set image in ImageView</string>
+    <string name="empty_field">empty field</string>
+</resources>
